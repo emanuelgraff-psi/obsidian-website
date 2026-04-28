@@ -1,0 +1,287 @@
+# Aula 1 - Atividade Simulada I
+
+	 É processo mental de cima para baixa (top-down) de organização e interpretação de informações sensoriais. Porém em nossas experiências cotidianas, sensação e percepção são aspectos diferentes de um único processo contínuo.
+
+Nosso processamento top-down constrói percepções a partir do estímulo sensorial valendo-se de nossa experiência e nossas expectativas. (David Myers, 2017, p.210)
+
+Trago como exemplo a distúrbio neurológico Prosopagnosia que afeta a capacidade de perceber rostos. Quando apresentadas a uma pessoa saudável e comparada com uma pessoas saudável, a **sensação** é normal. Seus receptores captam as mesmas informações que seu par comparativo e essas mesmas informações são igualmente enviadas aos sistema nervoso. Porém a **percepção** de que sofrem do distúrbio conseguem reconhecer pessoas pelo jeito de andar, falar, cabelo, mas não pelo rosto.
+
+
+
+```mermaid
+flowchart TB
+subgraph Biológico
+    A[Sensação] --> B[Transdução]
+    B --> C[Transmissão ao SNC]
+    C --> D[Processamento Cerebral]
+end
+subgraph Cognitiva
+    D --> E[Percepção]
+end
+
+```
+
+A percepção então atravessa a parte biológica como os _inputs_ sensoriais até as nossas suposições, expectativas, esquemas e conjuntos perceptivos e o ambiente que nos cerca.
+
+Os processos psicológicos básicos descritos são
+
+Percepção:  
+É processo mental de cima para baixa (top-down) de organização e interpretação de informações sensoriais. Porém em nossas experiências cotidianas, sensação e percepção são aspectos diferentes de um único processo contínuo.
+
+Sensação:
+É processo mental de cima para baixa (top-down) de organização e interpretação de informações sensoriais. Porém em nossas experiências cotidianas, sensação e percepção são aspectos diferentes de um único processo contínuo.
+ 
+Aprendizagem: 
+Mudança relativamente permanente no comportamento produzida pela experiência.
+
+
+Memória:
+Processo pelo qual codificamos, armazenamos e recuperamos informações.
+
+Pensamento e linguagem:
+Pensamento e a manipulação das representações mentais da informação e a linguagem é a comunicação da informação por meio de símbolos organizados de acordo com regras sistemáticas.
+
+
+Motivação:
+Fatores que direcionam e energizam
+o comportamento dos seres humanos e de outros organismos.
+
+
+Emoção:
+Fatores que direcionam e energizam o comportamento dos seres humanos e de outros organismos.
+
+
+Referências
+___
+FELDMAN, Robert S. Introdução à psicologia/ Robert S. 10. ed. Porto Alegre : AMGH, 2015.
+MYERS, David G. Psicologia. 13. ed. Rio de Janeiro. LTC,2023
+
+
+# Aula 2 - Atividade Simulada I
+
+Data: 03/03/2026 
+
+Produza um texto para cada questão de aprendizagem elaborada pelo grupo.  
+
+Para cada questão inserir as referências bibliográficas. 
+
+1. O que são metodologias ativas de aprendizagem? 
+    
+
+2. Quais são os processos avaliativos no MA? 
+    
+
+A característica central das Metodologias Ativas é o proporcionamento de ambientes onde alunos podem aprender através da experiência prática, com maior compreensão dos conteúdos e desenvolvimento de habilidades práticas e comportamentais. 
+
+*Metodologias ativas incentivam os alunos a serem protagonistas de seu próprio aprendizado,  desenvolvendo competências como autonomia, pensamento crítico, e habilidades de  resolução  de problemas*
+
+Bachich: Moran, 2018, p.64 
+
+Procurando por análises concretas ou caracterizações já realizadas por outros acadêmicos, encontrei as seguintes definições divididas em: O ensino, O aluno e O Professor. 
+
+**O ensino**
+
+O ensino visa desenvolver o senso crítico em relação ao que foi aprendido. 
+
+Desenvolver competências que permitam aplicar o conhecimento adquirido no mundo. 
+
+Desenvolver habilidades reflexivas e humanistas a partir do contato com a realidade. 
+
+Conhecimento construído de maneira colaborativa. 
+
+Construção do conhecimento integrando prática e teoria em cada situação de experiência pedagógica. 
+
+Princípio teórico da autonomia, “o aprender a aprender”. 
+
+Desenvolver competências cognitivas, pessoais e sociais, exigindo do estudante características como proatividade e colaboração. 
+
+Ensino pautado na problematização como estratégia de ensino aprendizagem. 
+
+Ensino centrado na participação efetiva dos estudantes na construção do processo de aprendizagem, processo que se dá de forma flexível, interligada e híbrida. 
+
+Formação de sujeitos críticos e reflexivos. Pedagogia crítica, interativa e reflexiva. 
+
+Os alunos vivenciam problemas e situações reais que se relacionam com a sua existência 
+
+desenvolvimento de autonomia. 
+
+Desenvolvimento do raciocínio e de capacidades para intervenção na própria realidade; colaboração e cooperação entre participantes. 
+
+Processos de ação-reflexão-ação. 
+
+Atividades que estimulem um maior envolvimento com a contextualização, a interdisciplinaridade e a problematização. 
+
+**O estudante**
+
+No centro do processo ensino e aprendizagem. 
+
+Protagonista e ativo dentro do seu processo de aprendizagem. 
+
+Participação ativa do sujeito em seu processo de aprendizagem e construção do conhecimento. 
+
+Sujeito participa como agente de transformação social e detecção de problemas reais e de busca por soluções. Nessa perspectiva o estudante trabalha colaborativamente, de modo conjunto com os demais. 
+
+Construtor de seu próprio conhecimento e autor de suas conquistas. Papel ativo de sua formação. 
+
+Estudante capaz de autogerenciar seu processo de formação. Destaque a autonomia. 
+
+Papel de protagonista, em que o aluno assume no processo de aprendizagem ao se envolver nele de forma direta, participativa e reflexiva. 
+
+Autonomia do estudante na aquisição do seu próprio conhecimento despertar a curiosidade e estimular a tomada de decisão. 
+
+O estudante assume uma postura ativa e crítica em relação à aprendizagem. 
+
+**O professor**
+
+Facilitador e mediador das ações educativas. 
+
+Enfoque não centrado no profissional docente. 
+
+Atividades mediadas pelo professor, que assume o papel de facilitador da aprendizagem. 
+
+Diálogo entre educador e educando, valorizando os conhecimentos e experiências da vida profissional. 
+
+Como coadjuvante, um facilitador das experiências. 
+
+Mediador de ações que permitem que os estudantes assumam posturas ativas em relação ao seu processo de ensino e aprendizagem. 
+
+Oportunizar a escuta aos estudantes, valorizar suas opiniões, exercitar a empatia, responder aos questionamentos. 
+
+Considero ainda difícil de entender em termos práticos como isso é aplicado em desenvolvido dentro das universidades, mas reservo essa dúvida para uma próxima leitura. 
+
+ A seguir procurei pelos métodos avaliativos, chegando a uma análise feita por acadêmicos da UTFPR que através da leitura de 19 autores chegam aos seguintes instrumentos avaliativos das metodologias ativas: 
+
+| Método                                                                                                                      | Descrição                                                                                                                                                                                                                                                                                                                                                  | Autores                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Gamificação                                                                                                                 | Utiliza elementos de jogos, como pontuação, recompensas e desafios, para tornar a experiência de avaliação mais envolvente e motivadora. Introduz competitividade saudável, feedback imediato e, às vezes, uma narrativa para criar uma atmosfera de aprendizagem interativa e estimulante.                                                                | Barros (2022) Guarda et al. (2023) Morales Salas (2022                                                                                                           |
+| Questionários e avaliação formativa baseada em SRE (Student response system, em português sistema de resposta do estudante) | É uma maneira eficaz de integrar tecnologia ao processo educacional, fornecendo um feedback contínuo que pode melhorar a aprendizagem dos estudantes e informar as práticas de ensino. Essa abordagem enfatiza a importância do aprendizado ativo, da adaptação da instrução e do uso de dados para melhorar continuamente a qualidade do ensino           | Barros (2022) Dúo-Terrón et al. (2022) Gonçalves et al. (2021) Jeong et al. (2020) Maciel et al. (2022) Ruiz-Jiménez et al. (2022) Tirado-Olivares et al. (2021) |
+| Framework de múltiplos critérios                                                                                            | Esta estrutura avalia diversas metodologias de ensino em nove critérios, como criatividade, colaboração, comunicação, pensamento crítico, tomada de decisão, motivação, aprendizado, conforto do aluno e tempo de preparação da aula. A avaliação é feita com base nas opiniões dos estudantes, recolhidas por questionários após cada aplicação           | Borges et al. (2023) Machado et al. (2023)                                                                                                                       |
+| Portfólio                                                                                                                   | Os estudantes compilam trabalhos, projetos e reflexões ao longo do tempo em um portfólio. Este método de avaliação proporciona uma visão holística do progresso e aprendizagem do aluno.                                                                                                                                                                   | Ferrarini et al. (2022) Koraneekij e Khlaisang (2019) Lins et al. (2018) Ruiz-Jiménez et al. (2022)                                                              |
+| Debates                                                                                                                     | É uma abordagem na qual os estudantes são avaliados com base na sua participação e no desempenho em discussão e debates em sala de aula.                                                                                                                                                                                                                   | Maciel et al. (2022) Seguí e Galiana (2023)                                                                                                                      |
+| Desenhos quantitativos pré-experimental                                                                                     | Refere-se a uma abordagem de pesquisa que busca medir o impacto de uma intervenção ou tratamento específico em um grupo de participantes antes e depois da aplicação de um conteúdo específico.                                                                                                                                                            | Ortega-Sánchez e Jiménez- -Eguizábal (2019)                                                                                                                      |
+| Teste on-line, objetivo e subjetivo                                                                                         | Depende dos objetivos de aprendizagem, da natureza do conteúdo a ser avaliado e dos recursos disponíveis para correção e avaliação. Em muitos casos, uma combinação desses tipos de avaliação pode ser usada para obter uma visão mais abrangente do desempenho dos estudantes.                                                                            | Medina-Díaz e Verdejo- -Carrión (2020) Coelho et al. (2023) Seguí e Galiana (2023) Tirado-Olivares et al. (2021)                                                 |
+| Rubricas                                                                                                                    | Utilização de critérios específicos para avaliar o desempenho dos estudantes em tarefas ou projetos. As rubricas ajudam a fornecer feedback detalhado e consistente.                                                                                                                                                                                       | Medina-Díaz e Verdejo- -Carrión (2020) Coelho et al. (2023) Ruiz-Jiménez et al. (2022                                                                            |
+| Observação                                                                                                                  | Os professores observam o comportamento, a participação e o envolvimento dos estudantes durante as atividades de aprendizagem. Esse método fornece informações contextuais valiosas.                                                                                                                                                                       | Lins et al. (2018) Medina-Díaz e Verdejo- -Carrión (2020)                                                                                                        |
+| Tarefas de execução                                                                                                         | Refere-se a uma abordagem de avaliação na qual os estudantes são solicitados a realizar uma tarefa prática ou aplicar habilidades específicas em um contexto real ou simulado. Esse tipo de avaliação foca na capacidade dos estudantes de aplicar conhecimentos e habilidades de maneira prática, indo além da simples memorização de conceitos teóricos. | Tirado-Olivares et al. (2021)                                                                                                                                    |
+| Ferramentas disponíveis no AVA (Ambiente Virtual de Aprendizagem): Moodle, Classroom                                        | Utilizar as ferramentas disponíveis no Ambiente Virtual de Aprendizagem como a plataforma Moodle, por exemplo, que disponibiliza muitas ferramentas avaliativas que poderão dar suporte ao professor: questionários, tarefas, fóruns de discussões, enquetes, e muitos outros.                                                                             | Barros (2022) Gonçalves et al. (2021) Maciel et al. (2022) Ruiz-Jiménez et al. (2022)                                                                            |
+
+O aprofundamento em cada uma delas ficará para minha próxima sessão de estudos. 
+
+ANDRADE FILHO, Marcos Antonio Soares de; OLIVEIRA, Elineide Cavalcanti de; KLAUCH, Jorge José; SANTOS, Luciana Monteiro dos; PENHA, Maria Cleonice Santos de Melo. Metodologias ativas na avaliação do ensino superior: teorias, práticas e impactos.Revista Ilustração, v. 5, n. 9, p. 135–152, 2024. 
+
+METODOLOGIAS ATIVAS: EM BUSCA DE UMA CARACTERIZAÇÃO E DEFINIÇÃO. SciELO Preprints, 2022 
+
+OLIVEIRA, SIMONE LUZIA DUMA DE et al . INSTRUMENTOS AVALIATIVOS EM METODOLOGIAS ATIVAS: REVISÃO SISTEMÁTICA. Est. Aval. Educ.,  São Paulo ,  v. 36,  e11269,    2025 .   Disponível em <http://educa.fcc.org.br/scielo.php?script=sci_arttext&pid=S0103-68312025000100307&lng=pt&nrm=iso>. acessos em  03  mar.  2026.  Epub 21-Abr-2025.  [https://doi.org/10.18222/eae.v36.11269](https://doi.org/10.18222/eae.v36.11269). 
+
+[0103-6831-eae-36-e11269.pdf](http://educa.fcc.org.br/pdf/eae/v36/0103-6831-eae-36-e11269.pdf)
+
+
+pontos a melhorar: procurar por contradições, se todos defendem ou não
+
+# Aula 2 - Situação Problema I - MA
+
+
+##### Situação Problema "Somente eu..."
+
+Primeira atividade com metodologia ativa em pequeno grupo... Após o processamento de uma situação problema e a definição da questão de aprendizagem do grupo, todos participam da rodada de avaliação, fazendo sua auto avaliação, a avaliação das participações dos pares e da docente.
+Finalizados os trabalhos, praticamente todos deixaram a sala, exceto dois participantes que ainda arrumavam seus materiais. Fernanda ajeitava suas anotações, lentamente, como se faltasse energia...Observador, Pedro se aproxima e pergunta:
+
+•⁠  ⁠Você parece bastante pensativa...está tudo bem?
+•⁠  ⁠Acho que não! Respondeu Fernanda, mostrando certa surpresa pela pergunta do colega, que acabara de conhecer...
+•⁠  ⁠E o que está te preocupando?
+•⁠  ⁠Essa sensação de insegurança...Eu estou acostumada a que me digam o que estudar...Não sei em qual livro ou capítulo devo estudar para responder essa questão de aprendizagem... como vou me organizar sem disciplinas e nessa tal Metodologias Ativas?.Como eu vou saber se está certo ou errado? Será que a Professora vai corrigir se alguém trouxer uma bobagem?
+•⁠  ⁠Mas, porque você não falou isso na sua avaliação?
+•⁠  ⁠Achei que somente eu fiquei com essa dúvida...Como as avaliações dos colegas foram muito boas, decidi não falar...
+•⁠  ⁠Na avaliação, você disse que normalmente tem dificuldade para falar, mas que o grupo te ajudou a expressar seus pensamentos...
+•⁠  ⁠Isso foi verdade...Mas é que, além disso, não gosto de parecer diferente...
+##### Pontos identificados pela turma:
+- Sentimento de ansiedade(antecipação) diante nova jornada acadêmica
+- Insegurança para se comunicar
+- Comportamento comparativo  em contexto acadêmico
+- Deslocada em relação ao seu papel acadêmico
+- Desconhecimento sobre o papel do estudante e docente nas metodologias ativas de aprendizagem.
+- Desconhecimento sobre os processos avaliativos nas metodologias ativas
+- Distanciamento da vida real com a vida acadêmica
+- Vivência apenas do Método Tradicional de Ensino
+
+##### Minha Hipótese:
+Diante aos pontos de problemas declarados pela aluna somados aos pontos identificados pela turma, posso dizer que suas dúvidas em relação ao seu papel, do professor ou facilitador, de seu pares e da método avaliativo apontam para um o problema central de desconexão de Fernanda em relação a autonomia no contexto acadêmico. Muito provavelmente por falta de estímulo e contato com experiências semelhantes, podendo apontar como principal suposta causa o fato de ter vindo de uma edução integralmente tradicional antes de graduação.
+
+##### Pontos Hipotese professora:
+A prática repetitiva que pune comportamentos no metodologia tradicional trouxeram agora medos de ser repudiada por pares e professores quando em posição de questionadora.
+
+Historicamente e socialmente está enraizado o método tradicional de ensino, o que pode gerar/insegurança/medo, exclusão ao nos defrontarmos como novos modo de aprender e ser.
+
+##### Síntese Provisórias
+
+1. O que são metodologias ativas de aprendizagem? ==(escolhida)==
+
+A Metodologia Ativa (MA) tem uma concepção de educação crítico-reflexiva com base em estímulo no processo ensino-aprendizagem, resultando em envolvimento por parte do educando na busca pelo conhecimento. Dentro do conceito de metodologia ativa, existe o método a partir da construção de uma situação problema (SP), a qual proporciona uma reflexão crítica; mobiliza o educando para buscar o conhecimento, a fim de solucionar a SP; ajuda na reflexão e a proposição de soluções mais adequadas e corretas.2 As concepções teóricas e metodológicas da MA convergem com a Metodologia da Problematização (MP)
+
+2. Diferenças entre metodologia Tradicional e Ativa
+    
+3. Como a vivência do aluno impacta na sua aprendizagem
+    
+4. Quais são os processos avaliativos na MA? ==(escolhida)==
+	   
+5. Qual o papel do estudante e do docente no MA?
+
+   
+##### Palavras-chaves pontuadas pela professora:
+
+- Metacognição
+- Aprender a aprender
+- Regras ABNT para citação
+- Hábito de escrever para o portfólio
+
+
+##### Pontos a estudar
+- O que é subjetividade/processos de subjetivação
+ 
+###### Dicas Professora
+- Utilizar palavras de cargas negativas quando descrever pontos que realmente necessitam de atenção
+
+
+# Aula 5 - Síntese Provisória
+
+
+## Estrutura
+
+1. Identificação
+	1. Nome
+	2. Aula 2 - Atividade Simulada I
+	3. Endereço
+	4. Estado Civil
+	5. Renda
+	6. Religiosidade
+	7. Ocupação
+	8. Sexo (CBO)
+	9. Gênero
+	10. Raça/Cor
+	11. Naturalidade
+	12. Orientação Sexual
+	13. Escolaridade
+2. Motivo de Atendimento
+3. História Pessoal
+
+## Problemas
+
+### Prática
+- Não saber a técnica/prática do acolhimento
+- Não saber desenrolar o racioncínio clínico-epidemiológico
+- Não aprofundar na escuta-qualificada/ativa
+- Desconhecimento sobre atenção e psicologia na AB
+
+### História
+- Vulnerabilidade Socioeconômica
+- Presença de dielma ético (aborto, religiosidade)
+- Histórico de violência (doméstica), física psicológica
+	- Brasil ainda majoritariamente possui cultura patriarcal com raízes muito pautadas em papéis de gênero que fortalecem relações de submissão da mulher em que muitas das vezes transborda para a agressão.
+- Sobrecarga da mulher (Saúde da Mulher)
+
+Questões de Aprendizagem
+- Qual o papel da psicologia na AB?( O que é AB? para que serve? atividades?)
+- Como e por que as desigualdades sociais fazem mal à saúde?
+- Como desenvolver o acolhimento na psicologia?
+
+
