@@ -4,6 +4,14 @@ Utilizando o menu lateral esquerdo você pode encontrar todos os meus registros 
 Na lateral direita você encontra uma visualização em conexões, sempre ao acessar uma nota essa visualização atualiza, mostrando com quais outros conhecimentos a presente nota se conecta.
 
 
+## 🕒 Recentes  
+```dataview  
+LIST FROM ""  
+SORT file.mtime DESC  
+LIMIT 10  
+```
+```dataview  
+LIST FROM ""  
+```
 
-![[Untitled 1.base]]
 
